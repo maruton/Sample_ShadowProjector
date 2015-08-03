@@ -11,8 +11,8 @@ Shadow projector using to upright direction.
 
 ## How to use
 
-See blog: ' Comming soon '    
-http://dennou-note.blogspot.jp/  
+See blog: ' Shadow Projector活用サンプル～地面から離れると小さく消失する影～  '    
+http://dennou-note.blogspot.jp/2015/08/shadow-projector.html    
 
 
 ## License
